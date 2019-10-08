@@ -1,1 +1,1 @@
-# Code-up-basic 100
+# Code-up-basic100(Python)
