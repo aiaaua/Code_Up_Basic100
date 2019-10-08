@@ -1,0 +1,5 @@
+﻿a, b, c = input().split('.')
+a = "%04d" % int(a)
+b = "%02d" % int(b)
+c = "%02d" % int(c)
+print (a, b, c, sep = '.')
