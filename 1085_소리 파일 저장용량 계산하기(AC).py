@@ -1,4 +1,4 @@
-﻿a, b, c, d = input().split()
+a, b, c, d = input().split()
 hz = int(a)
 bit = int(b)
 ch = int(c)
